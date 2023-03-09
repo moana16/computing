@@ -1,0 +1,11 @@
+import turtle as t
+t.shape('turtle')
+t.shapesize(4)
+t.width(5)
+t.color("blue")
+t.fd(300)
+t.right(144)
+t.fd(300)
+t.left(144)
+t.fd(300)
+input()
